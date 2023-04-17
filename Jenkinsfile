@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                echo 'Hello World new test for training'
+                echo 'Hello World new test for training pour vscode sur trainingJenkins'
             }
         }
     }
