@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                echo 'Hello World new'
+                echo 'Hello World new test for training'
             }
         }
     }
